@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>aws on Mattia de Filippo</title>
-    <link>https://defilippomattia.github.io/tags/aws/</link>
+    <link>https://example.com/tags/aws/</link>
     <description>Recent content in aws on Mattia de Filippo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://defilippomattia.github.io/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Mar 2021 21:47:41 +0000</lastBuildDate><atom:link href="https://example.com/tags/aws/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to install OracleDB on AWS instance running Oracle Linux 7?</title>
-      <link>https://defilippomattia.github.io/post/oracledb-on-aws-instance/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Data obfuscation with AWS (RDS,Lambda and API Gateway)</title>
+      <link>https://example.com/post/figure-shortcode/</link>
+      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
       
-      <guid>https://defilippomattia.github.io/post/oracledb-on-aws-instance/</guid>
-      <description>&lt;p&gt;In this tutorial you will find how to install OracleDB on a AWS instance running Oracle Linux 7 (OL7).&lt;/p&gt;</description>
+      <guid>https://example.com/post/figure-shortcode/</guid>
+      <description>Hugo has figure shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images.</description>
     </item>
     
   </channel>
