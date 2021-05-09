@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Mattia de Filippo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://defilippomattia.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Mar 2021 21:47:41 +0000</lastBuildDate><atom:link href="https://defilippomattia.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>demo</title>
+      <link>https://defilippomattia.github.io/tags/demo/</link>
+      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
+      
+      <guid>https://defilippomattia.github.io/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcode</title>
+      <link>https://defilippomattia.github.io/tags/shortcode/</link>
+      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
+      
+      <guid>https://defilippomattia.github.io/tags/shortcode/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>aws</title>
       <link>https://defilippomattia.github.io/tags/aws/</link>
@@ -67,6 +85,51 @@
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://defilippomattia.github.io/tags/oracledb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>https://defilippomattia.github.io/tags/privacy/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://defilippomattia.github.io/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcodes</title>
+      <link>https://defilippomattia.github.io/tags/shortcodes/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://defilippomattia.github.io/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text</title>
+      <link>https://defilippomattia.github.io/tags/text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://defilippomattia.github.io/tags/text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>https://defilippomattia.github.io/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://defilippomattia.github.io/tags/emoji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thumbnail</title>
+      <link>https://defilippomattia.github.io/tags/thumbnail/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://defilippomattia.github.io/tags/thumbnail/</guid>
       <description></description>
     </item>
     
