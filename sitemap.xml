@@ -3,27 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2021-03-13T21:47:41+00:00</lastmod>
+    <lastmod>2021-05-05T21:47:41+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/azure/</loc>
+    <lastmod>2021-05-05T21:47:41+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/docker/</loc>
+    <lastmod>2021-05-05T21:47:41+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/p3-streamlit-docker-tf/</loc>
+    <lastmod>2021-05-05T21:47:41+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2021-05-05T21:47:41+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/python/</loc>
+    <lastmod>2021-05-05T21:47:41+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/streamlit/</loc>
+    <lastmod>2021-05-05T21:47:41+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2021-05-05T21:47:41+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/terraform/</loc>
+    <lastmod>2021-05-05T21:47:41+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/aws/</loc>
+    <lastmod>2021-04-02T21:47:41+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/p2-oracledb-ol7-copy/</loc>
+    <lastmod>2021-04-02T21:47:41+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/ol7/</loc>
+    <lastmod>2021-04-02T21:47:41+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/oracle/</loc>
+    <lastmod>2021-04-02T21:47:41+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/oracledb/</loc>
+    <lastmod>2021-04-02T21:47:41+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/api-gateway/</loc>
     <lastmod>2021-03-13T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/aws/</loc>
-    <lastmod>2021-03-13T21:47:41+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/post/figure-shortcode/</loc>
+    <loc>https://example.com/post/p1-data-obsucation/</loc>
     <lastmod>2021-03-13T21:47:41+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/lambda/</loc>
     <lastmod>2021-03-13T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
-    <lastmod>2021-03-13T21:47:41+00:00</lastmod>
-  </url><url>
     <loc>https://example.com/tags/rds/</loc>
-    <lastmod>2021-03-13T21:47:41+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
     <lastmod>2021-03-13T21:47:41+00:00</lastmod>
   </url><url>
     <loc>https://example.com/archives/</loc>
