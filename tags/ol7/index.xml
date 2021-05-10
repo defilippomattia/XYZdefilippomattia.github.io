@@ -13,7 +13,7 @@
       <pubDate>Fri, 02 Apr 2021 21:47:41 +0000</pubDate>
       
       <guid>https://example.com/post/p2-oracledb-ol7-copy/</guid>
-      <description>&lt;p&gt;In this tutorial you will find how to install OracleDB on a AWS instance running Oracle Linux 7 (OL7).&lt;/p&gt;</description>
+      <description>&lt;p&gt;In this tutorial you will find how to install OracleDB on a EC2 instance running Oracle Linux 7 (OL7).&lt;/p&gt;</description>
     </item>
     
   </channel>
